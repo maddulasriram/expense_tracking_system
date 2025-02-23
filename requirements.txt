@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+aiomysql
+asyncio
+pytest
+logging
+requests
